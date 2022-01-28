@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <PackageId>Mailgun.Net</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>Hossyposs</Authors>
+        <PackageDescription>Wrapper for the Mailgun mail sending service</PackageDescription>
+        <RepositoryUrl>https://github.com/hossyposs/Mailgun.Net</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageVersion>0.0.1</PackageVersion>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+</Project>
